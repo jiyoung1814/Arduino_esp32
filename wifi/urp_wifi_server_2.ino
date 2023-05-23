@@ -13,8 +13,8 @@
 AsyncWebServer server(80);
 BH1745 bh = BH1745();
 
-const char* ssid = "WITLAB" ;//wifi ID
-const char* password = "defacto8*"; //wifi PASSWORD
+const char* ssid = "*****" ;//wifi ID
+const char* password = "*******"; //wifi PASSWORD
 
 const char* PARAM_MESSAGE = "message";
 String jsondata ="";
